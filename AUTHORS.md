@@ -1,4 +1,3 @@
 # Authors
 
-* Ascensio System SIA: <integration@onlyoffice.com>
-
+Lu Min Aung ( System Engineer )
